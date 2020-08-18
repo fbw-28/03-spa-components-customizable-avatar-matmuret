@@ -1,0 +1,53 @@
+.card{
+    width: 25%;
+    margin: 10px;
+    border:solid 3px black;
+   
+}
+
+img{
+    display:inline-block;
+    margin: 30px;
+    
+
+    
+}
+
+.s {
+    width: 30px;
+    height: 30px;
+    font-size: 12px;
+    margin: 20px;
+}
+.m {
+    width: 60px;
+    height: 60px;
+    font-size: 18px;
+    margin: 20px;
+}
+.l{
+    width: 120px;
+    height: 120px;
+    font-size: 22px;
+    margin: 20px;
+}
+.xl{
+    width: 200px;
+    height: 200px;
+    font-size: 30px;
+    margin: 20px;
+}
+
+.rounded{
+    border-radius: 8%;
+}
+ .circle{
+     border-radius: 50%;
+ }
+ .square{
+     border:1px solid
+
+ }
+ span{
+     font-weight: bolder;
+ }
